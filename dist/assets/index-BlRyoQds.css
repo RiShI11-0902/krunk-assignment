@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;.img{background-image:url(./assets/hero.jpg);background-size:cover;background-repeat:no-repeat;width:100%;height:100%;position:absolute;top:-10%;left:0;z-index:-1}.style{max-width:692px}.box{width:Fixed (250px)px;height:Hug (141px)px;padding:10px 0 0;gap:10px;border-radius:20px 0 0;opacity:0px}
